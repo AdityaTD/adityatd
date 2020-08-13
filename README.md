@@ -1,16 +1,16 @@
-### Hi there 👋
+<h4>Hello! 👋 I am Aditya Nath Tripathi aka AdityaTD</h4>
+<p><em>Entrepreneur, Full Stack Developer, Graphics Designer and Musician</em></p>
 
-<!--
-**AdityaTD/AdityaTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/adityatripathid?label=Follow)](https://twitter.com/adityatripathid)
+[![GitHub followers](https://img.shields.io/github/followers/AdityaTD?label=Follow&style=social)](https://github.com/AdityaTD)
 
-Here are some ideas to get you started:
+- 🔭 Currently Working on [PenguBot](https://github.com/PenguBot), [TheSocialCounter](https://thesocialcounter.com) and [Climactic](https://climactic.co)
+- 🌱 Learning TypeScript
+- 📫 Let's get social on [Discord](https://discord.gg/cu8aMYw), [Instagram](https://instagram.com/aditya_td), [YouTube](https://youtube.com/AdityaTD) and [Twitter](https://twitter.com/adityatripathid)
+- 🎵 I also make music! Check it out [Spotify](https://open.spotify.com/artist/3MKIyx6JG4TwZNSHnmNyMm), [Apple Music](https://music.apple.com/us/artist/aditya-tripathi/1504395195) and [YouTube](https://youtube.com/AdityaTD)
+- 🖇️ Also see my [Linkedin](https://www.linkedin.com/in/adityatd) and [Behance](https://www.behance.net/AdityaTD)
+- ⚡ Fun fact! I got my first computer at the age of 1 year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
