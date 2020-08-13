@@ -12,5 +12,11 @@
 - ⚡ Fun fact! I got my first computer at the age of 1 year
 
 <!--START_SECTION:waka-->
-
+```text
+Vue.js       6 hrs 24 mins   ███████████░░░░░░░░░░░░░░   47.13 % 
+TypeScript   4 hrs 42 mins   ████████░░░░░░░░░░░░░░░░░   34.62 % 
+JSON         1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Markdown     29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+SCSS         22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+```
 <!--END_SECTION:waka-->
