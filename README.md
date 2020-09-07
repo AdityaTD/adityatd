@@ -1,3 +1,5 @@
+<div align="center">
+
 <h4>Hello! 👋 I am Aditya Nath Tripathi aka AdityaTD</h4>
 <p><em>Entrepreneur, Full Stack Developer, Graphics Designer and Musician</em></p>
 
@@ -17,37 +19,7 @@
 
 ----
 
-<!--START_SECTION:waka-->
-**I'm an early 🐤** 
+![Stats](https://github-readme-stats.vercel.app/api?username=AdityaTD&count_private=true&show_icons=true&theme=dracula)
 
-```text
-🌞 Morning    66 commits     █████░░░░░░░░░░░░░░░░░░░░   22.84% 
-🌆 Daytime    98 commits     ████████░░░░░░░░░░░░░░░░░   33.91% 
-🌃 Evening    91 commits     ███████░░░░░░░░░░░░░░░░░░   31.49% 
-🌙 Night      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Kolkata
-
-💬 Languages: 
-TypeScript               8 hrs 8 mins        █████████████░░░░░░░░░░░░   54.42% 
-JavaScript               2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.53% 
-Docker                   2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.79% 
-YAML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46%
-
-🔥 Editors: 
-VS Code                  14 hrs 58 mins      █████████████████████████   100.0%
-
-💻 Operating Systems: 
-Windows                  14 hrs 58 mins      █████████████████████████   100.0%
-
-```
-
-
-<!--END_SECTION:waka-->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTD&layout=compact&count_private=true&theme=dracula)
+</div>
