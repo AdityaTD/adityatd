@@ -27,4 +27,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=AdityaTD&count_private=true&show_icons=true&theme=dracula)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTD&layout=compact&count_private=true&theme=dracula)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdityaTD&theme=highcontrast)](https://git.io/streak-stats)
+  
 </div>
