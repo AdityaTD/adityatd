@@ -4,7 +4,7 @@
 <p><em>Full Stack Software Engineer, Entreprenuer, Designer and Musician</em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adityatripathid?label=Follow)](https://twitter.com/adityatripathid)
-[![GitHub followers](https://img.shields.io/github/followers/AdityaTD?label=Follow&style=social)](https://github.com/AdityaTD)
+[![GitHub followers](https://img.shields.io/github/followers/adiologydev?label=Follow&style=social)](https://github.com/adiologydev)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHkYmDsRxcY_iJXDRs26A3g?style=social)
 
 ----
@@ -16,7 +16,7 @@
 
 🖇️ Also visit my [Linkedin](https://www.linkedin.com/in/adityatd) and [Behance](https://www.behance.net/AdityaTD) profile
 
-⚡ Fun fact! I got my first computer when I was an year old
+⚡ Fun fact! I got my first computer when I was a year old
 
 ----
 
@@ -24,10 +24,10 @@
 
 ----
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AdityaTD&count_private=true&show_icons=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=adiologydev&count_private=true&show_icons=true&theme=dracula)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTD&layout=compact&count_private=true&theme=dracula)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiologydev&layout=compact&count_private=true&theme=dracula)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdityaTD&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adiologydev&theme=highcontrast)](https://git.io/streak-stats)
   
 </div>
